@@ -1,0 +1,4 @@
+Debug Info: {"kelas":"6","nisn":"0099504854","dari":"2024-09-21","sampai":"2024-09-28","keterangan":"Sakit","btnSimpan":""}
+POST Data: {"kelas":"6","nisn":"0094603373","dari":"2024-09-21","sampai":"2024-09-28","keterangan":"Sakit","btnSimpan":""}
+POST Data: {"kelas":"1","nisn":"0094603373","dari":"2024-09-21","sampai":"2024-09-28","keterangan":"Sakit","btnSimpan":""}
+POST Data: {"kelas":"1","nisn":"0066606802","dari":"2024-09-21","sampai":"2024-09-28","keterangan":"Sakit","btnSimpan":""}

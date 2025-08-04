@@ -1,0 +1,433 @@
+[2025-07-28 10:23:40] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:23:40] Koneksi database berhasil.
+[2025-07-28 10:23:40] Form submitted with btnSimpan.
+[2025-07-28 10:23:40] Input received: RFID=wqwq, Nama=wq, NISN=0098789088, KelasID=7
+[2025-07-28 10:23:40] EXCEPTION (RFID check): Unknown column 'rfid_code' in 'where clause'
+[2025-07-28 10:23:42] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:23:42] Koneksi database berhasil.
+[2025-07-28 10:23:42] Request for Tambah Data Siswa finished.
+[2025-07-28 10:23:50] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:23:50] Koneksi database berhasil.
+[2025-07-28 10:23:50] Form submitted with btnSimpan.
+[2025-07-28 10:23:50] Input received: RFID=sa, Nama=sa, NISN=0098789088, KelasID=7
+[2025-07-28 10:23:50] EXCEPTION (RFID check): Unknown column 'rfid_code' in 'where clause'
+[2025-07-28 10:24:01] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:24:01] Koneksi database berhasil.
+[2025-07-28 10:24:01] Request for Tambah Data Siswa finished.
+[2025-07-28 10:25:15] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:25:15] Koneksi database berhasil.
+[2025-07-28 10:25:15] Form submitted with btnSimpan.
+[2025-07-28 10:25:15] Input received: RFID=althaf XIIRPL09, Nama=nansa, NISN=0098789088, KelasID=7
+[2025-07-28 10:25:15] Menjalankan RFID check untuk: althaf XIIRPL09
+[2025-07-28 10:25:15] RFID belum ada di database.
+[2025-07-28 10:25:15] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 10:25:15] NISN belum ada di database.
+[2025-07-28 10:25:15] Menjalankan INSERT siswa dengan RFID=althaf XIIRPL09, Nama=nansa, NISN=0098789088, KelasID=7
+[2025-07-28 10:25:15] EXCEPTION (Student Insert/cURL): Field 'kelas' doesn't have a default value
+[2025-07-28 10:25:15] Request for Tambah Data Siswa finished.
+[2025-07-28 10:25:21] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:25:21] Koneksi database berhasil.
+[2025-07-28 10:25:21] Request for Tambah Data Siswa finished.
+[2025-07-28 10:25:32] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:25:32] Koneksi database berhasil.
+[2025-07-28 10:25:32] Form submitted with btnSimpan.
+[2025-07-28 10:25:32] Input received: RFID=sa, Nama=sa, NISN=0098789088, KelasID=6
+[2025-07-28 10:25:32] Menjalankan RFID check untuk: sa
+[2025-07-28 10:25:32] RFID belum ada di database.
+[2025-07-28 10:25:32] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 10:25:32] NISN belum ada di database.
+[2025-07-28 10:25:32] Menjalankan INSERT siswa dengan RFID=sa, Nama=sa, NISN=0098789088, KelasID=6
+[2025-07-28 10:25:32] EXCEPTION (Student Insert/cURL): Field 'kelas' doesn't have a default value
+[2025-07-28 10:25:32] Request for Tambah Data Siswa finished.
+[2025-07-28 10:25:37] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:25:37] Koneksi database berhasil.
+[2025-07-28 10:25:37] Request for Tambah Data Siswa finished.
+[2025-07-28 10:29:02] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:29:02] Koneksi database berhasil.
+[2025-07-28 10:29:02] Request for Tambah Data Siswa finished.
+[2025-07-28 10:29:12] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:29:12] Koneksi database berhasil.
+[2025-07-28 10:29:12] Form submitted with btnSimpan.
+[2025-07-28 10:29:12] Input received: RFID=althaf XIIRPL2, Nama=sa, NISN=0098789088, KelasID=7
+[2025-07-28 10:29:12] Kelas tidak kosong.
+[2025-07-28 10:29:12] Menjalankan RFID check untuk: althaf XIIRPL2
+[2025-07-28 10:29:12] RFID belum ada di database.
+[2025-07-28 10:29:12] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 10:29:12] NISN belum ada di database.
+[2025-07-28 10:29:12] Menjalankan INSERT siswa dengan RFID=althaf XIIRPL2, Nama=sa, NISN=0098789088, KelasID (ke kolom kelas)=7
+[2025-07-28 10:29:12] Data siswa berhasil disimpan ke database.
+[2025-07-28 10:29:12] Mengirim request ke ESP32 URL: http://192.168.1.100:80/set_rfid?code=althaf+XIIRPL2
+[2025-07-28 10:29:12] ERROR (cURL): Failed to connect to 192.168.1.100 port 80 after 61 ms: Connection refused
+[2025-07-28 10:29:12] Request for Tambah Data Siswa finished.
+[2025-07-28 10:29:47] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:29:47] Koneksi database berhasil.
+[2025-07-28 10:29:47] Request for Tambah Data Siswa finished.
+[2025-07-28 10:29:55] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:29:55] Koneksi database berhasil.
+[2025-07-28 10:29:55] Form submitted with btnSimpan.
+[2025-07-28 10:29:55] Input received: RFID=sa, Nama=sa, NISN=0098789088, KelasID=7
+[2025-07-28 10:29:55] Kelas tidak kosong.
+[2025-07-28 10:29:55] Menjalankan RFID check untuk: sa
+[2025-07-28 10:29:55] RFID belum ada di database.
+[2025-07-28 10:29:55] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 10:29:55] ERROR: NISN sudah ada.
+[2025-07-28 10:29:58] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:29:58] Koneksi database berhasil.
+[2025-07-28 10:29:58] Request for Tambah Data Siswa finished.
+[2025-07-28 10:30:15] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:30:15] Koneksi database berhasil.
+[2025-07-28 10:30:15] Form submitted with btnSimpan.
+[2025-07-28 10:30:15] Input received: RFID=althaf XIIRPL2, Nama=sa, NISN=0021002102, KelasID=6
+[2025-07-28 10:30:15] Kelas tidak kosong.
+[2025-07-28 10:30:15] Menjalankan RFID check untuk: althaf XIIRPL2
+[2025-07-28 10:30:15] ERROR: RFID sudah ada.
+[2025-07-28 10:30:19] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:30:19] Koneksi database berhasil.
+[2025-07-28 10:30:19] Request for Tambah Data Siswa finished.
+[2025-07-28 10:30:58] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:30:58] Koneksi database berhasil.
+[2025-07-28 10:30:58] Form submitted with btnSimpan.
+[2025-07-28 10:30:58] Input received: RFID=sa, Nama=sa, NISN=0021002102, KelasID=7
+[2025-07-28 10:30:58] Kelas tidak kosong.
+[2025-07-28 10:30:58] Menjalankan RFID check untuk: sa
+[2025-07-28 10:30:58] RFID belum ada di database.
+[2025-07-28 10:30:58] Menjalankan NISN check untuk: 0021002102
+[2025-07-28 10:30:58] NISN belum ada di database.
+[2025-07-28 10:30:58] Menjalankan INSERT siswa dengan RFID=sa, Nama=sa, NISN=0021002102, KelasID (ke kolom kelas)=7
+[2025-07-28 10:30:58] Data siswa berhasil disimpan ke database.
+[2025-07-28 10:30:58] Mengirim request ke ESP32 URL: http://192.168.50.191:80/set_rfid?code=sa
+[2025-07-28 10:30:58] cURL berhasil. HTTP Code: 200, Respon ESP32: ESP32 is in write mode, present card to write: sa
+[2025-07-28 10:30:58] Request for Tambah Data Siswa finished.
+[2025-07-28 10:32:54] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:32:54] Koneksi database berhasil.
+[2025-07-28 10:32:54] Request for Tambah Data Siswa finished.
+[2025-07-28 10:33:13] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 10:33:13] Koneksi database berhasil.
+[2025-07-28 10:33:13] Form submitted with btnSimpan.
+[2025-07-28 10:33:13] Input received: RFID=dadas, Nama=sasa, NISN=0021002197, KelasID=6
+[2025-07-28 10:33:13] Kelas tidak kosong.
+[2025-07-28 10:33:13] Menjalankan RFID check untuk: dadas
+[2025-07-28 10:33:13] RFID belum ada di database.
+[2025-07-28 10:33:13] Menjalankan NISN check untuk: 0021002197
+[2025-07-28 10:33:13] NISN belum ada di database.
+[2025-07-28 10:33:13] Menjalankan INSERT siswa dengan RFID=dadas, Nama=sasa, NISN=0021002197, KelasID (ke kolom kelas)=6
+[2025-07-28 10:33:13] Data siswa berhasil disimpan ke database.
+[2025-07-28 10:33:13] Mengirim request ke ESP32 URL: http://192.168.50.191:80/set_rfid?code=dadas
+[2025-07-28 10:33:13] cURL berhasil. HTTP Code: 200, Respon ESP32: ESP32 is in write mode, present card to write: dadas
+[2025-07-28 10:33:13] Request for Tambah Data Siswa finished.
+[2025-07-28 13:52:49] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 13:52:49] Koneksi database berhasil.
+[2025-07-28 13:52:49] Request for Tambah Data Siswa finished.
+[2025-07-28 14:10:46] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 14:10:46] Koneksi database berhasil.
+[2025-07-28 14:10:46] Request for Tambah Data Siswa finished.
+[2025-07-28 22:42:02] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 22:42:02] Koneksi database berhasil.
+[2025-07-28 22:42:02] Request for Tambah Data Siswa finished.
+[2025-07-28 22:42:42] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 22:42:42] Koneksi database berhasil.
+[2025-07-28 22:42:42] Form submitted with btnSimpan.
+[2025-07-28 22:42:42] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789078, KelasID=7
+[2025-07-28 22:42:42] Kelas tidak kosong.
+[2025-07-28 22:42:42] Formatted No. Siswa: 6285336112345
+[2025-07-28 22:42:42] Formatted No. Ortu: 6285336112345
+[2025-07-28 22:42:42] Menjalankan RFID check untuk: nansa
+[2025-07-28 22:42:42] RFID belum ada di database.
+[2025-07-28 22:42:42] Menjalankan NISN check untuk: 0098789078
+[2025-07-28 22:42:42] NISN belum ada di database.
+[2025-07-28 22:42:42] Menjalankan INSERT siswa dengan RFID=nansa, Nama=alicya nansa, NISN=0098789078, KelasID (ke kolom kelas)=7
+[2025-07-28 22:42:42] EXCEPTION (Student Insert/cURL): Field 'no_siswa' doesn't have a default value
+[2025-07-28 22:42:42] Request for Tambah Data Siswa finished.
+[2025-07-28 22:42:49] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 22:42:49] Koneksi database berhasil.
+[2025-07-28 22:42:49] Request for Tambah Data Siswa finished.
+[2025-07-28 22:43:25] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 22:43:25] Koneksi database berhasil.
+[2025-07-28 22:43:25] Form submitted with btnSimpan.
+[2025-07-28 22:43:25] Input received: RFID=nansa, Nama=nansa, NISN=0098789078, KelasID=7
+[2025-07-28 22:43:25] Kelas tidak kosong.
+[2025-07-28 22:43:25] Formatted No. Siswa: 6285336112345
+[2025-07-28 22:43:25] Formatted No. Ortu: 6285336112345
+[2025-07-28 22:43:25] Menjalankan RFID check untuk: nansa
+[2025-07-28 22:43:25] RFID belum ada di database.
+[2025-07-28 22:43:25] Menjalankan NISN check untuk: 0098789078
+[2025-07-28 22:43:25] NISN belum ada di database.
+[2025-07-28 22:43:25] Menjalankan INSERT siswa dengan RFID=nansa, Nama=nansa, NISN=0098789078, KelasID (ke kolom kelas)=7
+[2025-07-28 22:43:25] EXCEPTION (Student Insert/cURL): Field 'no_siswa' doesn't have a default value
+[2025-07-28 22:43:25] Request for Tambah Data Siswa finished.
+[2025-07-28 22:43:32] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 22:43:32] Koneksi database berhasil.
+[2025-07-28 22:43:32] Request for Tambah Data Siswa finished.
+[2025-07-28 22:46:47] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 22:46:47] Koneksi database berhasil.
+[2025-07-28 22:46:47] Form submitted with btnSimpan.
+[2025-07-28 22:46:47] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789078, KelasID=7, no_siswa=6285336112345, no_ortu=6285336112345
+[2025-07-28 22:46:47] Kelas tidak kosong.
+[2025-07-28 22:46:47] Formatted No. Siswa: 6285336112345
+[2025-07-28 22:46:47] Formatted No. Ortu: 6285336112345
+[2025-07-28 22:46:47] Menjalankan RFID check untuk: nansa
+[2025-07-28 22:46:47] RFID belum ada di database.
+[2025-07-28 22:46:47] Menjalankan NISN check untuk: 0098789078
+[2025-07-28 22:46:47] NISN belum ada di database.
+[2025-07-28 22:46:47] Menjalankan INSERT siswa dengan RFID=nansa, Nama=alicya nansa, NISN=0098789078, KelasID (ke kolom kelas)=7
+[2025-07-28 22:46:47] EXCEPTION (Student Insert/cURL): Field 'no_siswa' doesn't have a default value
+[2025-07-28 22:46:47] Request for Tambah Data Siswa finished.
+[2025-07-28 22:46:53] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 22:46:53] Koneksi database berhasil.
+[2025-07-28 22:46:53] Request for Tambah Data Siswa finished.
+[2025-07-28 22:47:28] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 22:47:28] Koneksi database berhasil.
+[2025-07-28 22:47:28] Form submitted with btnSimpan.
+[2025-07-28 22:47:28] Input received: RFID=nansa, Nama=nansa, NISN=0098789078, KelasID=7, no_siswa=6285336112345, no_ortu=6285336112345
+[2025-07-28 22:47:28] Kelas tidak kosong.
+[2025-07-28 22:47:28] Formatted No. Siswa: 6285336112345
+[2025-07-28 22:47:28] Formatted No. Ortu: 6285336112345
+[2025-07-28 22:47:28] Menjalankan RFID check untuk: nansa
+[2025-07-28 22:47:28] RFID belum ada di database.
+[2025-07-28 22:47:28] Menjalankan NISN check untuk: 0098789078
+[2025-07-28 22:47:28] NISN belum ada di database.
+[2025-07-28 22:47:28] Menjalankan INSERT siswa dengan RFID=nansa, Nama=nansa, NISN=0098789078, KelasID (ke kolom kelas)=7
+[2025-07-28 22:47:28] EXCEPTION (Student Insert/cURL): Field 'no_siswa' doesn't have a default value
+[2025-07-28 22:47:28] Request for Tambah Data Siswa finished.
+[2025-07-28 22:47:54] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 22:47:54] Koneksi database berhasil.
+[2025-07-28 22:47:54] Request for Tambah Data Siswa finished.
+[2025-07-28 22:51:31] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 22:51:31] Koneksi database berhasil.
+[2025-07-28 22:51:31] Form submitted with btnSimpan.
+[2025-07-28 22:51:31] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789078, KelasID=6, no_siswa=6285336112345, no_ortu=6285336112345
+[2025-07-28 22:51:31] Kelas tidak kosong.
+[2025-07-28 22:51:31] Formatted No. Siswa: 6285336112345
+[2025-07-28 22:51:31] Formatted No. Ortu: 6285336112345
+[2025-07-28 22:51:31] Menjalankan RFID check untuk: nansa
+[2025-07-28 22:51:31] RFID belum ada di database.
+[2025-07-28 22:51:31] Menjalankan NISN check untuk: 0098789078
+[2025-07-28 22:51:31] NISN belum ada di database.
+[2025-07-28 22:52:40] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 22:52:40] Koneksi database berhasil.
+[2025-07-28 22:52:40] Form submitted with btnSimpan.
+[2025-07-28 22:52:40] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789078, KelasID=6, no_siswa=6285336112345, no_ortu=6285336112345
+[2025-07-28 22:52:40] Kelas tidak kosong.
+[2025-07-28 22:52:40] Formatted No. Siswa: 6285336112345
+[2025-07-28 22:52:40] Formatted No. Ortu: 6285336112345
+[2025-07-28 22:52:40] Menjalankan RFID check untuk: nansa
+[2025-07-28 22:52:40] RFID belum ada di database.
+[2025-07-28 22:52:40] Menjalankan NISN check untuk: 0098789078
+[2025-07-28 22:52:40] NISN belum ada di database.
+[2025-07-28 22:52:40] Menjalankan INSERT siswa dengan RFID=nansa, Nama=alicya nansa, NISN=0098789078, KelasID (ke kolom kelas)=6, No. Siswa=6285336112345, No. Ortu=6285336112345
+[2025-07-28 22:52:40] Data siswa berhasil disimpan ke database.
+[2025-07-28 22:52:40] Mengirim request ke ESP32 URL: http://192.168.50.191:80/set_rfid?code=nansa
+[2025-07-28 22:52:50] ERROR (cURL): Connection timed out after 10001 milliseconds
+[2025-07-28 22:52:50] Request for Tambah Data Siswa finished.
+[2025-07-28 23:00:41] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:00:41] Koneksi database berhasil.
+[2025-07-28 23:00:41] Request for Tambah Data Siswa finished.
+[2025-07-28 23:26:02] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:26:02] Koneksi database berhasil.
+[2025-07-28 23:26:02] Request for Tambah Data Siswa finished.
+[2025-07-28 23:26:16] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:26:16] Koneksi database berhasil.
+[2025-07-28 23:26:16] Form submitted with btnSimpan.
+[2025-07-28 23:26:16] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID=7, no_siswa=6285336112345, no_ortu=085336112345
+[2025-07-28 23:26:16] Kelas tidak kosong.
+[2025-07-28 23:26:16] Formatted No. Siswa: 6285336112345
+[2025-07-28 23:26:16] Formatted No. Ortu: 6285336112345
+[2025-07-28 23:26:16] Menjalankan RFID check untuk: nansa
+[2025-07-28 23:26:16] RFID belum ada di database.
+[2025-07-28 23:26:16] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 23:26:16] NISN belum ada di database.
+[2025-07-28 23:26:16] Menjalankan INSERT siswa dengan RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID (ke kolom kelas)=7, No. Siswa=6285336112345, No. Ortu=6285336112345
+[2025-07-28 23:26:16] Data siswa berhasil disimpan ke database.
+[2025-07-28 23:26:16] Mengirim request ke ESP32 URL: http://192.168.50.191:80/set_rfid?code=nansa
+[2025-07-28 23:26:26] ERROR (cURL): Connection timed out after 10001 milliseconds
+[2025-07-28 23:26:26] Request for Tambah Data Siswa finished.
+[2025-07-28 23:27:20] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:27:20] Koneksi database berhasil.
+[2025-07-28 23:27:20] Request for Tambah Data Siswa finished.
+[2025-07-28 23:27:34] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:27:34] Koneksi database berhasil.
+[2025-07-28 23:27:34] Form submitted with btnSimpan.
+[2025-07-28 23:27:34] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID=7, no_siswa=085336112345, no_ortu=085336112345
+[2025-07-28 23:27:34] Kelas tidak kosong.
+[2025-07-28 23:27:34] Formatted No. Siswa: 6285336112345
+[2025-07-28 23:27:34] Formatted No. Ortu: 6285336112345
+[2025-07-28 23:27:34] Menjalankan RFID check untuk: nansa
+[2025-07-28 23:27:34] RFID belum ada di database.
+[2025-07-28 23:27:34] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 23:27:34] NISN belum ada di database.
+[2025-07-28 23:27:34] Menjalankan INSERT siswa dengan RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID (ke kolom kelas)=7, No. Siswa=6285336112345, No. Ortu=6285336112345
+[2025-07-28 23:27:34] Data siswa berhasil disimpan ke database.
+[2025-07-28 23:27:34] Mengirim request ke ESP32 URL: http://192.168.213.191/:80/set_rfid?code=nansa
+[2025-07-28 23:27:34] cURL berhasil. HTTP Code: 404, Respon ESP32: Not found: /:80/set_rfid
+[2025-07-28 23:27:34] Request for Tambah Data Siswa finished.
+[2025-07-28 23:30:54] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:30:54] Koneksi database berhasil.
+[2025-07-28 23:30:54] Request for Tambah Data Siswa finished.
+[2025-07-28 23:31:06] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:31:06] Koneksi database berhasil.
+[2025-07-28 23:31:06] Form submitted with btnSimpan.
+[2025-07-28 23:31:06] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID=7, no_siswa=6285336112345, no_ortu=085336112345
+[2025-07-28 23:31:06] Kelas tidak kosong.
+[2025-07-28 23:31:06] Formatted No. Siswa: 6285336112345
+[2025-07-28 23:31:06] Formatted No. Ortu: 6285336112345
+[2025-07-28 23:31:06] Menjalankan RFID check untuk: nansa
+[2025-07-28 23:31:06] RFID belum ada di database.
+[2025-07-28 23:31:06] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 23:31:06] NISN belum ada di database.
+[2025-07-28 23:31:06] Menjalankan INSERT siswa dengan RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID (ke kolom kelas)=7, No. Siswa=6285336112345, No. Ortu=6285336112345
+[2025-07-28 23:31:06] Data siswa berhasil disimpan ke database.
+[2025-07-28 23:31:06] Mengirim request ke ESP32 URL: http://192.168.213.191/:/set_rfid?code=nansa
+[2025-07-28 23:31:06] cURL berhasil. HTTP Code: 404, Respon ESP32: Not found: /:/set_rfid
+[2025-07-28 23:31:06] Request for Tambah Data Siswa finished.
+[2025-07-28 23:34:59] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:34:59] Koneksi database berhasil.
+[2025-07-28 23:34:59] Request for Tambah Data Siswa finished.
+[2025-07-28 23:35:13] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:35:13] Koneksi database berhasil.
+[2025-07-28 23:35:13] Form submitted with btnSimpan.
+[2025-07-28 23:35:13] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID=7, no_siswa=6285336112345, no_ortu=085336112345
+[2025-07-28 23:35:13] Kelas tidak kosong.
+[2025-07-28 23:35:13] Formatted No. Siswa: 6285336112345
+[2025-07-28 23:35:13] Formatted No. Ortu: 6285336112345
+[2025-07-28 23:35:13] Menjalankan RFID check untuk: nansa
+[2025-07-28 23:35:13] RFID belum ada di database.
+[2025-07-28 23:35:13] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 23:35:13] NISN belum ada di database.
+[2025-07-28 23:35:13] Menjalankan INSERT siswa dengan RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID (ke kolom kelas)=7, No. Siswa=6285336112345, No. Ortu=6285336112345
+[2025-07-28 23:35:13] Data siswa berhasil disimpan ke database.
+[2025-07-28 23:35:13] Mengirim request ke ESP32 URL: http://192.168.213.191/:/set_rfid?code=nansa
+[2025-07-28 23:35:13] cURL berhasil. HTTP Code: 404, Respon ESP32: Not found: /:/set_rfid
+[2025-07-28 23:35:13] Request for Tambah Data Siswa finished.
+[2025-07-28 23:38:09] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:38:09] Koneksi database berhasil.
+[2025-07-28 23:38:09] Request for Tambah Data Siswa finished.
+[2025-07-28 23:38:23] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:38:23] Koneksi database berhasil.
+[2025-07-28 23:38:23] Form submitted with btnSimpan.
+[2025-07-28 23:38:23] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID=6, no_siswa=6285336112345, no_ortu=6285336112345
+[2025-07-28 23:38:23] Kelas tidak kosong.
+[2025-07-28 23:38:23] Formatted No. Siswa: 6285336112345
+[2025-07-28 23:38:23] Formatted No. Ortu: 6285336112345
+[2025-07-28 23:38:23] Menjalankan RFID check untuk: nansa
+[2025-07-28 23:38:23] RFID belum ada di database.
+[2025-07-28 23:38:23] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 23:38:23] NISN belum ada di database.
+[2025-07-28 23:38:23] Menjalankan INSERT siswa dengan RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID (ke kolom kelas)=6, No. Siswa=6285336112345, No. Ortu=6285336112345
+[2025-07-28 23:38:23] Data siswa berhasil disimpan ke database.
+[2025-07-28 23:38:23] Mengirim request ke ESP32 URL: http://192.168.213.191/:/set_rfid?code=nansa
+[2025-07-28 23:38:23] cURL berhasil. HTTP Code: 404, Respon ESP32: Not found: /:/set_rfid
+[2025-07-28 23:38:23] Request for Tambah Data Siswa finished.
+[2025-07-28 23:39:09] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:39:09] Koneksi database berhasil.
+[2025-07-28 23:39:09] Request for Tambah Data Siswa finished.
+[2025-07-28 23:39:21] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:39:21] Koneksi database berhasil.
+[2025-07-28 23:39:21] Form submitted with btnSimpan.
+[2025-07-28 23:39:21] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID=6, no_siswa=6285336112345, no_ortu=085336112345
+[2025-07-28 23:39:21] Kelas tidak kosong.
+[2025-07-28 23:39:21] Formatted No. Siswa: 6285336112345
+[2025-07-28 23:39:21] Formatted No. Ortu: 6285336112345
+[2025-07-28 23:39:21] Menjalankan RFID check untuk: nansa
+[2025-07-28 23:39:21] RFID belum ada di database.
+[2025-07-28 23:39:21] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 23:39:21] NISN belum ada di database.
+[2025-07-28 23:39:21] Menjalankan INSERT siswa dengan RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID (ke kolom kelas)=6, No. Siswa=6285336112345, No. Ortu=6285336112345
+[2025-07-28 23:39:21] Data siswa berhasil disimpan ke database.
+[2025-07-28 23:39:21] Mengirim request ke ESP32 URL: http://192.168.213.191/:/set_rfid?code=nansa
+[2025-07-28 23:39:22] cURL berhasil. HTTP Code: 404, Respon ESP32: Not found: /:/set_rfid
+[2025-07-28 23:39:22] Request for Tambah Data Siswa finished.
+[2025-07-28 23:41:26] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:41:26] Koneksi database berhasil.
+[2025-07-28 23:41:26] Request for Tambah Data Siswa finished.
+[2025-07-28 23:41:39] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:41:39] Koneksi database berhasil.
+[2025-07-28 23:41:39] Form submitted with btnSimpan.
+[2025-07-28 23:41:39] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID=7, no_siswa=6285336112345, no_ortu=085336112345
+[2025-07-28 23:41:39] Kelas tidak kosong.
+[2025-07-28 23:41:39] Formatted No. Siswa: 6285336112345
+[2025-07-28 23:41:39] Formatted No. Ortu: 6285336112345
+[2025-07-28 23:41:39] Menjalankan RFID check untuk: nansa
+[2025-07-28 23:41:39] RFID belum ada di database.
+[2025-07-28 23:41:39] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 23:41:39] NISN belum ada di database.
+[2025-07-28 23:41:39] Menjalankan INSERT siswa dengan RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID (ke kolom kelas)=7, No. Siswa=6285336112345, No. Ortu=6285336112345
+[2025-07-28 23:41:39] Data siswa berhasil disimpan ke database.
+[2025-07-28 23:41:39] Mengirim request ke ESP32 URL: http://192.168.213.191:/set_rfid?code=nansa
+[2025-07-28 23:41:39] cURL berhasil. HTTP Code: 404, Respon ESP32: Not found: /set_rfid
+[2025-07-28 23:41:39] Request for Tambah Data Siswa finished.
+[2025-07-28 23:42:07] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:42:07] Koneksi database berhasil.
+[2025-07-28 23:42:07] Request for Tambah Data Siswa finished.
+[2025-07-28 23:42:17] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:42:17] Koneksi database berhasil.
+[2025-07-28 23:42:17] Form submitted with btnSimpan.
+[2025-07-28 23:42:17] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID=7, no_siswa=6285336112345, no_ortu=085336112345
+[2025-07-28 23:42:17] Kelas tidak kosong.
+[2025-07-28 23:42:17] Formatted No. Siswa: 6285336112345
+[2025-07-28 23:42:17] Formatted No. Ortu: 6285336112345
+[2025-07-28 23:42:17] Menjalankan RFID check untuk: nansa
+[2025-07-28 23:42:17] RFID belum ada di database.
+[2025-07-28 23:42:17] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 23:42:17] NISN belum ada di database.
+[2025-07-28 23:42:17] Menjalankan INSERT siswa dengan RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID (ke kolom kelas)=7, No. Siswa=6285336112345, No. Ortu=6285336112345
+[2025-07-28 23:42:17] Data siswa berhasil disimpan ke database.
+[2025-07-28 23:42:17] Mengirim request ke ESP32 URL: http://192.168.213.191/set_rfid?code=nansa
+[2025-07-28 23:42:17] cURL berhasil. HTTP Code: 404, Respon ESP32: Not found: /set_rfid
+[2025-07-28 23:42:17] Request for Tambah Data Siswa finished.
+[2025-07-28 23:48:07] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:48:07] Koneksi database berhasil.
+[2025-07-28 23:48:07] Request for Tambah Data Siswa finished.
+[2025-07-28 23:48:18] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:48:18] Koneksi database berhasil.
+[2025-07-28 23:48:18] Form submitted with btnSimpan.
+[2025-07-28 23:48:18] Input received: RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID=7, no_siswa=6285336112345, no_ortu=085336112345
+[2025-07-28 23:48:18] Kelas tidak kosong.
+[2025-07-28 23:48:18] Formatted No. Siswa: 6285336112345
+[2025-07-28 23:48:18] Formatted No. Ortu: 6285336112345
+[2025-07-28 23:48:18] Menjalankan RFID check untuk: nansa
+[2025-07-28 23:48:18] RFID belum ada di database.
+[2025-07-28 23:48:18] Menjalankan NISN check untuk: 0098789088
+[2025-07-28 23:48:18] NISN belum ada di database.
+[2025-07-28 23:48:18] Menjalankan INSERT siswa dengan RFID=nansa, Nama=alicya nansa, NISN=0098789088, KelasID (ke kolom kelas)=7, No. Siswa=6285336112345, No. Ortu=6285336112345
+[2025-07-28 23:48:18] Data siswa berhasil disimpan ke database.
+[2025-07-28 23:48:18] Mengirim request ke ESP32 URL: http://192.168.213.191/set_rfid?code=nansa
+[2025-07-28 23:48:18] cURL berhasil. HTTP Code: 200, Respon ESP32: ESP32 is in write mode, present card to write: nansa
+[2025-07-28 23:48:18] Request for Tambah Data Siswa finished.
+[2025-07-28 23:55:01] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:55:01] Koneksi database berhasil.
+[2025-07-28 23:55:01] Request for Tambah Data Siswa finished.
+[2025-07-28 23:55:14] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:55:14] Koneksi database berhasil.
+[2025-07-28 23:55:14] Form submitted with btnSimpan.
+[2025-07-28 23:55:14] Input received: RFID=althaf XIIRPL2, Nama=althaf, NISN=0098789078, KelasID=7, no_siswa=6285336112345, no_ortu=085336112345
+[2025-07-28 23:55:14] Kelas tidak kosong.
+[2025-07-28 23:55:14] Formatted No. Siswa: 6285336112345
+[2025-07-28 23:55:14] Formatted No. Ortu: 6285336112345
+[2025-07-28 23:55:14] Menjalankan RFID check untuk: althaf XIIRPL2
+[2025-07-28 23:55:14] RFID belum ada di database.
+[2025-07-28 23:55:14] Menjalankan NISN check untuk: 0098789078
+[2025-07-28 23:55:14] NISN belum ada di database.
+[2025-07-28 23:55:14] Menjalankan INSERT siswa dengan RFID=althaf XIIRPL2, Nama=althaf, NISN=0098789078, KelasID (ke kolom kelas)=7, No. Siswa=6285336112345, No. Ortu=6285336112345
+[2025-07-28 23:55:14] Data siswa berhasil disimpan ke database.
+[2025-07-28 23:55:14] Mengirim request ke ESP32 URL: http://192.168.213.191/set_rfid?code=althaf+XIIRPL2
+[2025-07-28 23:55:15] cURL berhasil. HTTP Code: 200, Respon ESP32: ESP32 is in write mode, present card to write: althaf XIIRPL2
+[2025-07-28 23:55:15] Request for Tambah Data Siswa finished.
+[2025-07-28 23:55:43] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:55:43] Koneksi database berhasil.
+[2025-07-28 23:55:43] Request for Tambah Data Siswa finished.
+[2025-07-28 23:56:01] --- New Request for Tambah Data Siswa Started ---
+[2025-07-28 23:56:01] Koneksi database berhasil.
+[2025-07-28 23:56:01] Form submitted with btnSimpan.
+[2025-07-28 23:56:01] Input received: RFID=althaf XIIRPL2, Nama=althaf, NISN=0098789078, KelasID=7, no_siswa=6285336112345, no_ortu=085336112345
+[2025-07-28 23:56:01] Kelas tidak kosong.
+[2025-07-28 23:56:01] Formatted No. Siswa: 6285336112345
+[2025-07-28 23:56:01] Formatted No. Ortu: 6285336112345
+[2025-07-28 23:56:01] Menjalankan RFID check untuk: althaf XIIRPL2
+[2025-07-28 23:56:01] RFID belum ada di database.
+[2025-07-28 23:56:01] Menjalankan NISN check untuk: 0098789078
+[2025-07-28 23:56:01] NISN belum ada di database.
+[2025-07-28 23:56:01] Menjalankan INSERT siswa dengan RFID=althaf XIIRPL2, Nama=althaf, NISN=0098789078, KelasID (ke kolom kelas)=7, No. Siswa=6285336112345, No. Ortu=6285336112345
+[2025-07-28 23:56:01] Data siswa berhasil disimpan ke database.
+[2025-07-28 23:56:01] Mengirim request ke ESP32 URL: http://192.168.213.191/set_rfid?code=althaf+XIIRPL2
+[2025-07-28 23:56:01] cURL berhasil. HTTP Code: 200, Respon ESP32: ESP32 is in write mode, present card to write: althaf XIIRPL2
+[2025-07-28 23:56:01] Request for Tambah Data Siswa finished.

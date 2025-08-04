@@ -1,0 +1,622 @@
+[2025-07-28 10:05:02] --- New Request ---
+[2025-07-28 10:05:02] Koneksi database berhasil.
+[2025-07-28 10:05:02] Raw input received: {"rfid_code":"althaf XIIRPL1"}
+[2025-07-28 10:05:02] JSON decoded successfully. Data: Array
+(
+    [rfid_code] => althaf XIIRPL1
+)
+
+[2025-07-28 10:05:02] RFID code received: althaf XIIRPL1
+[2025-07-28 10:05:02] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 10:05:02] RFID althaf XIIRPL1 berhasil disimpan ke tmprfid.
+[2025-07-28 10:07:15] --- New Request ---
+[2025-07-28 10:07:15] Koneksi database berhasil.
+[2025-07-28 10:07:15] Raw input received: {"rfid_code":"althaf XIIRPL1"}
+[2025-07-28 10:07:15] JSON decoded successfully. Data: Array
+(
+    [rfid_code] => althaf XIIRPL1
+)
+
+[2025-07-28 10:07:15] RFID code received: althaf XIIRPL1
+[2025-07-28 10:07:15] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 10:07:15] RFID althaf XIIRPL1 berhasil disimpan ke tmprfid.
+[2025-07-28 10:12:43] --- New Request Started ---
+[2025-07-28 10:12:43] Koneksi database berhasil.
+[2025-07-28 10:12:43] Raw input received: {"rfid_code":"althaf XIIRPL1"}
+[2025-07-28 10:12:43] RFID code extracted: althaf XIIRPL1
+[2025-07-28 10:12:43] Transaksi database dimulai.
+[2025-07-28 10:12:43] Menjalankan DELETE dari tmprfid.
+[2025-07-28 10:12:43] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 10:12:43] Menjalankan INSERT ke tmprfid dengan RFID: althaf XIIRPL1
+[2025-07-28 10:12:43] RFID althaf XIIRPL1 berhasil disimpan ke tmprfid.
+[2025-07-28 10:12:43] ERROR (Database Transaction): Unknown column 'rfid_code' in 'where clause'
+[2025-07-28 10:12:43] Sending JSON response: {"message":"Kesalahan database: Unknown column 'rfid_code' in 'where clause'"}
+[2025-07-28 10:12:43] Koneksi database ditutup. Request finished.
+[2025-07-28 10:15:16] --- New Request Started ---
+[2025-07-28 10:15:16] Koneksi database berhasil.
+[2025-07-28 10:15:16] Raw input received: {"rfid_code":"althaf XIIRPL1"}
+[2025-07-28 10:15:16] RFID code extracted: althaf XIIRPL1
+[2025-07-28 10:15:16] Transaksi database dimulai.
+[2025-07-28 10:15:16] Menjalankan DELETE dari tmprfid.
+[2025-07-28 10:15:16] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 10:15:16] Menjalankan INSERT ke tmprfid dengan RFID: althaf XIIRPL1
+[2025-07-28 10:15:16] RFID althaf XIIRPL1 berhasil disimpan ke tmprfid.
+[2025-07-28 10:15:16] Menjalankan SELECT dari siswa dengan rfid_code: althaf XIIRPL1
+[2025-07-28 10:15:16] Nama siswa ditemukan: Alammanuel Rui Paskah
+[2025-07-28 10:15:16] Transaksi database berhasil di-commit.
+[2025-07-28 10:15:16] Sending JSON response: {"message":"Presensi Berhasil, Alammanuel Rui Paskah"}
+[2025-07-28 10:15:16] Koneksi database ditutup. Request finished.
+[2025-07-28 10:15:35] --- New Request Started ---
+[2025-07-28 10:15:35] Koneksi database berhasil.
+[2025-07-28 10:15:35] Raw input received: {"rfid_code":"althaf XIIRPL1"}
+[2025-07-28 10:15:35] RFID code extracted: althaf XIIRPL1
+[2025-07-28 10:15:35] Transaksi database dimulai.
+[2025-07-28 10:15:35] Menjalankan DELETE dari tmprfid.
+[2025-07-28 10:15:35] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 10:15:35] Menjalankan INSERT ke tmprfid dengan RFID: althaf XIIRPL1
+[2025-07-28 10:15:35] RFID althaf XIIRPL1 berhasil disimpan ke tmprfid.
+[2025-07-28 10:15:35] Menjalankan SELECT dari siswa dengan rfid_code: althaf XIIRPL1
+[2025-07-28 10:15:35] Nama siswa ditemukan: Alammanuel Rui Paskah
+[2025-07-28 10:15:35] Transaksi database berhasil di-commit.
+[2025-07-28 10:15:35] Sending JSON response: {"message":"Presensi Berhasil, Alammanuel Rui Paskah"}
+[2025-07-28 10:15:35] Koneksi database ditutup. Request finished.
+[2025-07-28 10:17:44] --- New Request Started ---
+[2025-07-28 10:17:44] Koneksi database berhasil.
+[2025-07-28 10:17:44] Raw input received: {"rfid_code":"althaf XIIRPL1"}
+[2025-07-28 10:17:44] RFID code extracted: althaf XIIRPL1
+[2025-07-28 10:17:44] Transaksi database dimulai.
+[2025-07-28 10:17:44] Menjalankan DELETE dari tmprfid.
+[2025-07-28 10:17:44] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 10:17:44] Menjalankan INSERT ke tmprfid dengan RFID: althaf XIIRPL1
+[2025-07-28 10:17:44] RFID althaf XIIRPL1 berhasil disimpan ke tmprfid.
+[2025-07-28 10:17:44] Menjalankan SELECT dari siswa dengan rfid_code: althaf XIIRPL1
+[2025-07-28 10:17:44] Nama siswa ditemukan: Alammanuel Rui Paskah
+[2025-07-28 10:17:44] Transaksi database berhasil di-commit.
+[2025-07-28 10:17:44] Sending JSON response: {"message":"Presensi Berhasil, Alammanuel Rui Paskah"}
+[2025-07-28 10:17:44] Koneksi database ditutup. Request finished.
+[2025-07-28 10:18:05] --- New Request Started ---
+[2025-07-28 10:18:05] Koneksi database berhasil.
+[2025-07-28 10:18:05] Raw input received: {"rfid_code":"althaf XIIRPL1"}
+[2025-07-28 10:18:05] RFID code extracted: althaf XIIRPL1
+[2025-07-28 10:18:05] Transaksi database dimulai.
+[2025-07-28 10:18:05] Menjalankan DELETE dari tmprfid.
+[2025-07-28 10:18:05] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 10:18:05] Menjalankan INSERT ke tmprfid dengan RFID: althaf XIIRPL1
+[2025-07-28 10:18:05] RFID althaf XIIRPL1 berhasil disimpan ke tmprfid.
+[2025-07-28 10:18:05] Menjalankan SELECT dari siswa dengan rfid_code: althaf XIIRPL1
+[2025-07-28 10:18:05] Nama siswa ditemukan: Alammanuel Rui Paskah
+[2025-07-28 10:18:05] Transaksi database berhasil di-commit.
+[2025-07-28 10:18:05] Sending JSON response: {"message":"Presensi Berhasil, Alammanuel Rui Paskah"}
+[2025-07-28 10:18:05] Koneksi database ditutup. Request finished.
+[2025-07-28 10:24:55] --- New Request Started ---
+[2025-07-28 10:24:55] Koneksi database berhasil.
+[2025-07-28 10:24:55] Raw input received: {"rfid_code":"althaf XIIRPL1"}
+[2025-07-28 10:24:55] RFID code extracted: althaf XIIRPL1
+[2025-07-28 10:24:55] Transaksi database dimulai.
+[2025-07-28 10:24:55] Menjalankan DELETE dari tmprfid.
+[2025-07-28 10:24:55] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 10:24:55] Menjalankan INSERT ke tmprfid dengan RFID: althaf XIIRPL1
+[2025-07-28 10:24:55] RFID althaf XIIRPL1 berhasil disimpan ke tmprfid.
+[2025-07-28 10:24:55] Menjalankan SELECT dari siswa dengan rfid_code: althaf XIIRPL1
+[2025-07-28 10:24:55] Nama siswa ditemukan: Alammanuel Rui Paskah
+[2025-07-28 10:24:55] Transaksi database berhasil di-commit.
+[2025-07-28 10:24:55] Sending JSON response: {"message":"Presensi Berhasil, Alammanuel Rui Paskah"}
+[2025-07-28 10:24:55] Koneksi database ditutup. Request finished.
+[2025-07-28 10:31:17] --- New Request Started ---
+[2025-07-28 10:31:17] Koneksi database berhasil.
+[2025-07-28 10:31:17] Raw input received: {"rfid_code":"sa"}
+[2025-07-28 10:31:17] RFID code extracted: sa
+[2025-07-28 10:31:17] Transaksi database dimulai.
+[2025-07-28 10:31:17] Menjalankan DELETE dari tmprfid.
+[2025-07-28 10:31:17] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 10:31:17] Menjalankan INSERT ke tmprfid dengan RFID: sa
+[2025-07-28 10:31:17] RFID sa berhasil disimpan ke tmprfid.
+[2025-07-28 10:31:17] Menjalankan SELECT dari siswa dengan rfid_code: sa
+[2025-07-28 10:31:17] Nama siswa ditemukan: sa
+[2025-07-28 10:31:17] Transaksi database berhasil di-commit.
+[2025-07-28 10:31:17] Sending JSON response: {"message":"Presensi Berhasil, sa"}
+[2025-07-28 10:31:17] Koneksi database ditutup. Request finished.
+[2025-07-28 10:32:42] --- New Request Started ---
+[2025-07-28 10:32:42] Koneksi database berhasil.
+[2025-07-28 10:32:42] Raw input received: {"rfid_code":"sa"}
+[2025-07-28 10:32:42] RFID code extracted: sa
+[2025-07-28 10:32:42] Transaksi database dimulai.
+[2025-07-28 10:32:42] Menjalankan DELETE dari tmprfid.
+[2025-07-28 10:32:42] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 10:32:42] Menjalankan INSERT ke tmprfid dengan RFID: sa
+[2025-07-28 10:32:42] RFID sa berhasil disimpan ke tmprfid.
+[2025-07-28 10:32:42] Menjalankan SELECT dari siswa dengan rfid_code: sa
+[2025-07-28 10:32:42] Nama siswa ditemukan: sa
+[2025-07-28 10:32:42] Transaksi database berhasil di-commit.
+[2025-07-28 10:32:42] Sending JSON response: {"message":"Presensi Berhasil, sa"}
+[2025-07-28 10:32:42] Koneksi database ditutup. Request finished.
+[2025-07-28 10:33:35] --- New Request Started ---
+[2025-07-28 10:33:35] Koneksi database berhasil.
+[2025-07-28 10:33:35] Raw input received: {"rfid_code":"dadas"}
+[2025-07-28 10:33:35] RFID code extracted: dadas
+[2025-07-28 10:33:35] Transaksi database dimulai.
+[2025-07-28 10:33:35] Menjalankan DELETE dari tmprfid.
+[2025-07-28 10:33:35] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 10:33:35] Menjalankan INSERT ke tmprfid dengan RFID: dadas
+[2025-07-28 10:33:35] RFID dadas berhasil disimpan ke tmprfid.
+[2025-07-28 10:33:35] Menjalankan SELECT dari siswa dengan rfid_code: dadas
+[2025-07-28 10:33:35] Nama siswa ditemukan: sasa
+[2025-07-28 10:33:35] Transaksi database berhasil di-commit.
+[2025-07-28 10:33:35] Sending JSON response: {"message":"Presensi Berhasil, sasa"}
+[2025-07-28 10:33:35] Koneksi database ditutup. Request finished.
+[2025-07-28 10:36:55] --- New Request Started ---
+[2025-07-28 10:36:55] Koneksi database berhasil.
+[2025-07-28 10:36:55] Raw input received: {"rfid_code":"dadas"}
+[2025-07-28 10:36:55] RFID code extracted: dadas
+[2025-07-28 10:36:55] Transaksi database dimulai.
+[2025-07-28 10:36:55] Menjalankan DELETE dari tmprfid.
+[2025-07-28 10:36:55] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 10:36:55] Menjalankan INSERT ke tmprfid dengan RFID: dadas
+[2025-07-28 10:36:55] RFID dadas berhasil disimpan ke tmprfid.
+[2025-07-28 10:36:55] Menjalankan SELECT dari siswa dengan rfid_code: dadas
+[2025-07-28 10:36:55] Nama siswa ditemukan: sasa
+[2025-07-28 10:36:55] Transaksi database berhasil di-commit.
+[2025-07-28 10:36:55] Sending JSON response: {"message":"Presensi Berhasil, sasa"}
+[2025-07-28 10:36:55] Koneksi database ditutup. Request finished.
+[2025-07-28 23:23:52] --- New Request Started ---
+[2025-07-28 23:23:52] Koneksi database berhasil.
+[2025-07-28 23:23:52] Raw input received: {"rfid_code":""}
+[2025-07-28 23:23:52] RFID code extracted: 
+[2025-07-28 23:23:52] Transaksi database dimulai.
+[2025-07-28 23:23:52] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:23:52] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:23:52] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:23:52] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:23:52] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:23:52] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:23:52] Transaksi database berhasil di-commit.
+[2025-07-28 23:23:52] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:23:52] Koneksi database ditutup. Request finished.
+[2025-07-28 23:23:57] --- New Request Started ---
+[2025-07-28 23:23:57] Koneksi database berhasil.
+[2025-07-28 23:23:57] Raw input received: {"rfid_code":""}
+[2025-07-28 23:23:57] RFID code extracted: 
+[2025-07-28 23:23:57] Transaksi database dimulai.
+[2025-07-28 23:23:57] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:23:57] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:23:57] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:23:57] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:23:57] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:23:57] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:23:57] Transaksi database berhasil di-commit.
+[2025-07-28 23:23:57] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:23:57] Koneksi database ditutup. Request finished.
+[2025-07-28 23:24:05] --- New Request Started ---
+[2025-07-28 23:24:05] Koneksi database berhasil.
+[2025-07-28 23:24:05] Raw input received: {"rfid_code":""}
+[2025-07-28 23:24:05] RFID code extracted: 
+[2025-07-28 23:24:05] Transaksi database dimulai.
+[2025-07-28 23:24:05] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:24:05] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:24:05] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:24:05] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:24:05] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:24:05] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:24:05] Transaksi database berhasil di-commit.
+[2025-07-28 23:24:05] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:24:05] Koneksi database ditutup. Request finished.
+[2025-07-28 23:24:09] --- New Request Started ---
+[2025-07-28 23:24:09] Koneksi database berhasil.
+[2025-07-28 23:24:09] Raw input received: {"rfid_code":""}
+[2025-07-28 23:24:09] RFID code extracted: 
+[2025-07-28 23:24:09] Transaksi database dimulai.
+[2025-07-28 23:24:09] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:24:09] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:24:09] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:24:09] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:24:09] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:24:09] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:24:09] Transaksi database berhasil di-commit.
+[2025-07-28 23:24:09] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:24:09] Koneksi database ditutup. Request finished.
+[2025-07-28 23:24:15] --- New Request Started ---
+[2025-07-28 23:24:15] Koneksi database berhasil.
+[2025-07-28 23:24:15] Raw input received: {"rfid_code":""}
+[2025-07-28 23:24:15] RFID code extracted: 
+[2025-07-28 23:24:15] Transaksi database dimulai.
+[2025-07-28 23:24:15] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:24:15] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:24:15] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:24:15] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:24:15] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:24:15] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:24:15] Transaksi database berhasil di-commit.
+[2025-07-28 23:24:15] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:24:15] Koneksi database ditutup. Request finished.
+[2025-07-28 23:24:19] --- New Request Started ---
+[2025-07-28 23:24:19] Koneksi database berhasil.
+[2025-07-28 23:24:19] Raw input received: {"rfid_code":""}
+[2025-07-28 23:24:19] RFID code extracted: 
+[2025-07-28 23:24:19] Transaksi database dimulai.
+[2025-07-28 23:24:19] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:24:19] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:24:19] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:24:19] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:24:19] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:24:19] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:24:19] Transaksi database berhasil di-commit.
+[2025-07-28 23:24:19] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:24:19] Koneksi database ditutup. Request finished.
+[2025-07-28 23:24:23] --- New Request Started ---
+[2025-07-28 23:24:23] Koneksi database berhasil.
+[2025-07-28 23:24:23] Raw input received: {"rfid_code":""}
+[2025-07-28 23:24:23] RFID code extracted: 
+[2025-07-28 23:24:23] Transaksi database dimulai.
+[2025-07-28 23:24:23] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:24:23] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:24:23] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:24:23] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:24:23] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:24:23] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:24:23] Transaksi database berhasil di-commit.
+[2025-07-28 23:24:23] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:24:23] Koneksi database ditutup. Request finished.
+[2025-07-28 23:27:39] --- New Request Started ---
+[2025-07-28 23:27:39] Koneksi database berhasil.
+[2025-07-28 23:27:39] Raw input received: {"rfid_code":""}
+[2025-07-28 23:27:39] RFID code extracted: 
+[2025-07-28 23:27:39] Transaksi database dimulai.
+[2025-07-28 23:27:39] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:27:39] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:27:39] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:27:39] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:27:39] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:27:39] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:27:39] Transaksi database berhasil di-commit.
+[2025-07-28 23:27:39] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:27:39] Koneksi database ditutup. Request finished.
+[2025-07-28 23:27:48] --- New Request Started ---
+[2025-07-28 23:27:48] Koneksi database berhasil.
+[2025-07-28 23:27:48] Raw input received: {"rfid_code":""}
+[2025-07-28 23:27:48] RFID code extracted: 
+[2025-07-28 23:27:48] Transaksi database dimulai.
+[2025-07-28 23:27:48] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:27:48] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:27:48] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:27:48] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:27:48] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:27:48] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:27:48] Transaksi database berhasil di-commit.
+[2025-07-28 23:27:48] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:27:48] Koneksi database ditutup. Request finished.
+[2025-07-28 23:34:29] --- New Request Started ---
+[2025-07-28 23:34:29] Koneksi database berhasil.
+[2025-07-28 23:34:29] Raw input received: {"rfid_code":""}
+[2025-07-28 23:34:29] RFID code extracted: 
+[2025-07-28 23:34:29] Transaksi database dimulai.
+[2025-07-28 23:34:29] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:34:29] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:34:29] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:34:29] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:34:29] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:34:29] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:34:29] Transaksi database berhasil di-commit.
+[2025-07-28 23:34:29] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:34:29] Koneksi database ditutup. Request finished.
+[2025-07-28 23:34:34] --- New Request Started ---
+[2025-07-28 23:34:34] Koneksi database berhasil.
+[2025-07-28 23:34:34] Raw input received: {"rfid_code":""}
+[2025-07-28 23:34:34] RFID code extracted: 
+[2025-07-28 23:34:34] Transaksi database dimulai.
+[2025-07-28 23:34:34] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:34:34] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:34:34] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:34:34] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:34:34] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:34:34] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:34:34] Transaksi database berhasil di-commit.
+[2025-07-28 23:34:34] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:34:34] Koneksi database ditutup. Request finished.
+[2025-07-28 23:34:38] --- New Request Started ---
+[2025-07-28 23:34:38] Koneksi database berhasil.
+[2025-07-28 23:34:38] Raw input received: {"rfid_code":""}
+[2025-07-28 23:34:38] RFID code extracted: 
+[2025-07-28 23:34:38] Transaksi database dimulai.
+[2025-07-28 23:34:38] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:34:38] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:34:38] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:34:38] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:34:38] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:34:38] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:34:38] Transaksi database berhasil di-commit.
+[2025-07-28 23:34:38] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:34:38] Koneksi database ditutup. Request finished.
+[2025-07-28 23:37:54] --- New Request Started ---
+[2025-07-28 23:37:54] Koneksi database berhasil.
+[2025-07-28 23:37:54] Raw input received: {"rfid_code":""}
+[2025-07-28 23:37:54] RFID code extracted: 
+[2025-07-28 23:37:54] Transaksi database dimulai.
+[2025-07-28 23:37:54] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:37:54] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:37:54] Menjalankan INSERT ke tmprfid dengan RFID: 
+[2025-07-28 23:37:54] RFID  berhasil disimpan ke tmprfid.
+[2025-07-28 23:37:54] Menjalankan SELECT dari siswa dengan rfid_code: 
+[2025-07-28 23:37:54] Kartu tidak dikenali di tabel siswa: 
+[2025-07-28 23:37:54] Transaksi database berhasil di-commit.
+[2025-07-28 23:37:54] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:37:54] Koneksi database ditutup. Request finished.
+[2025-07-28 23:48:33] --- New Request Started ---
+[2025-07-28 23:48:33] Koneksi database berhasil.
+[2025-07-28 23:48:33] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:48:33] RFID code extracted: nansa
+[2025-07-28 23:48:33] Transaksi database dimulai.
+[2025-07-28 23:48:33] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:48:33] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:48:33] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:48:33] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:48:33] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:48:33] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:48:33] Transaksi database berhasil di-commit.
+[2025-07-28 23:48:33] Sending JSON response: {"message":"Presensi Berhasil, alicya nansa"}
+[2025-07-28 23:48:33] Koneksi database ditutup. Request finished.
+[2025-07-28 23:48:40] --- New Request Started ---
+[2025-07-28 23:48:40] Koneksi database berhasil.
+[2025-07-28 23:48:40] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:48:40] RFID code extracted: nansa
+[2025-07-28 23:48:40] Transaksi database dimulai.
+[2025-07-28 23:48:40] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:48:40] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:48:40] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:48:40] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:48:40] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:48:40] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:48:40] Transaksi database berhasil di-commit.
+[2025-07-28 23:48:40] Sending JSON response: {"message":"Presensi Berhasil, alicya nansa"}
+[2025-07-28 23:48:40] Koneksi database ditutup. Request finished.
+[2025-07-28 23:49:36] --- New Request Started ---
+[2025-07-28 23:49:36] Koneksi database berhasil.
+[2025-07-28 23:49:36] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:49:36] RFID code extracted: nansa
+[2025-07-28 23:49:36] Transaksi database dimulai.
+[2025-07-28 23:49:36] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:49:36] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:49:36] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:49:36] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:49:36] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:49:36] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:49:36] Transaksi database berhasil di-commit.
+[2025-07-28 23:49:36] Sending JSON response: {"message":"Presensi Berhasil, alicya nansa"}
+[2025-07-28 23:49:36] Koneksi database ditutup. Request finished.
+[2025-07-28 23:49:47] --- New Request Started ---
+[2025-07-28 23:49:47] Koneksi database berhasil.
+[2025-07-28 23:49:47] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:49:47] RFID code extracted: nansa
+[2025-07-28 23:49:47] Transaksi database dimulai.
+[2025-07-28 23:49:47] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:49:47] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:49:47] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:49:47] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:49:47] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:49:47] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:49:47] Transaksi database berhasil di-commit.
+[2025-07-28 23:49:47] Sending JSON response: {"message":"Presensi Berhasil, alicya nansa"}
+[2025-07-28 23:49:47] Koneksi database ditutup. Request finished.
+[2025-07-28 23:50:19] --- New Request Started ---
+[2025-07-28 23:50:19] Koneksi database berhasil.
+[2025-07-28 23:50:19] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:50:19] RFID code extracted: nansa
+[2025-07-28 23:50:19] Transaksi database dimulai.
+[2025-07-28 23:50:19] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:50:19] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:50:19] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:50:19] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:50:19] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:50:19] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:50:19] Transaksi database berhasil di-commit.
+[2025-07-28 23:50:19] Sending JSON response: {"message":"Presensi Berhasil, alicya nansa"}
+[2025-07-28 23:50:19] Koneksi database ditutup. Request finished.
+[2025-07-28 23:50:24] --- New Request Started ---
+[2025-07-28 23:50:24] Koneksi database berhasil.
+[2025-07-28 23:50:24] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:50:24] RFID code extracted: nansa
+[2025-07-28 23:50:24] Transaksi database dimulai.
+[2025-07-28 23:50:24] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:50:24] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:50:24] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:50:24] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:50:24] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:50:24] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:50:24] Transaksi database berhasil di-commit.
+[2025-07-28 23:50:24] Sending JSON response: {"message":"Presensi Berhasil, alicya nansa"}
+[2025-07-28 23:50:24] Koneksi database ditutup. Request finished.
+[2025-07-28 23:50:30] --- New Request Started ---
+[2025-07-28 23:50:30] Koneksi database berhasil.
+[2025-07-28 23:50:30] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:50:30] RFID code extracted: nansa
+[2025-07-28 23:50:30] Transaksi database dimulai.
+[2025-07-28 23:50:30] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:50:30] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:50:30] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:50:30] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:50:30] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:50:30] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:50:30] Transaksi database berhasil di-commit.
+[2025-07-28 23:50:30] Sending JSON response: {"message":"Presensi Berhasil, alicya nansa"}
+[2025-07-28 23:50:30] Koneksi database ditutup. Request finished.
+[2025-07-28 23:52:21] --- New Request Started ---
+[2025-07-28 23:52:21] Koneksi database berhasil.
+[2025-07-28 23:52:21] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:52:21] RFID code extracted: nansa
+[2025-07-28 23:52:21] Transaksi database dimulai.
+[2025-07-28 23:52:21] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:52:21] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:52:21] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:52:21] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:52:21] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:52:21] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:52:21] Transaksi database berhasil di-commit.
+[2025-07-28 23:52:21] Sending JSON response: {"message":"Presensi Berhasil, alicya nansa"}
+[2025-07-28 23:52:21] Koneksi database ditutup. Request finished.
+[2025-07-28 23:52:34] --- New Request Started ---
+[2025-07-28 23:52:34] Koneksi database berhasil.
+[2025-07-28 23:52:34] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:52:34] RFID code extracted: nansa
+[2025-07-28 23:52:34] Transaksi database dimulai.
+[2025-07-28 23:52:34] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:52:34] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:52:34] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:52:34] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:52:34] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:52:34] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:52:34] Transaksi database berhasil di-commit.
+[2025-07-28 23:52:34] Sending JSON response: {"message":"Presensialicya nansa"}
+[2025-07-28 23:52:34] Koneksi database ditutup. Request finished.
+[2025-07-28 23:52:48] --- New Request Started ---
+[2025-07-28 23:52:48] Koneksi database berhasil.
+[2025-07-28 23:52:48] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:52:48] RFID code extracted: nansa
+[2025-07-28 23:52:48] Transaksi database dimulai.
+[2025-07-28 23:52:48] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:52:48] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:52:48] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:52:48] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:52:48] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:52:48] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:52:48] Transaksi database berhasil di-commit.
+[2025-07-28 23:52:48] Sending JSON response: {"message":"Berhasil alicya nansa"}
+[2025-07-28 23:52:48] Koneksi database ditutup. Request finished.
+[2025-07-28 23:53:06] --- New Request Started ---
+[2025-07-28 23:53:06] Koneksi database berhasil.
+[2025-07-28 23:53:06] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:53:06] RFID code extracted: nansa
+[2025-07-28 23:53:06] Transaksi database dimulai.
+[2025-07-28 23:53:06] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:53:06] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:53:06] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:53:06] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:53:06] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:53:06] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:53:06] Transaksi database berhasil di-commit.
+[2025-07-28 23:53:06] Sending JSON response: {"message":"absne alicya nansa"}
+[2025-07-28 23:53:06] Koneksi database ditutup. Request finished.
+[2025-07-28 23:53:10] --- New Request Started ---
+[2025-07-28 23:53:10] Koneksi database berhasil.
+[2025-07-28 23:53:10] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:53:10] RFID code extracted: nansa
+[2025-07-28 23:53:10] Transaksi database dimulai.
+[2025-07-28 23:53:10] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:53:10] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:53:10] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:53:10] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:53:10] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:53:10] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:53:10] Transaksi database berhasil di-commit.
+[2025-07-28 23:53:10] Sending JSON response: {"message":"Absen alicya nansa"}
+[2025-07-28 23:53:10] Koneksi database ditutup. Request finished.
+[2025-07-28 23:53:22] --- New Request Started ---
+[2025-07-28 23:53:22] Koneksi database berhasil.
+[2025-07-28 23:53:22] Raw input received: {"rfid_code":"Gagal Otentikasi"}
+[2025-07-28 23:53:22] RFID code extracted: Gagal Otentikasi
+[2025-07-28 23:53:22] Transaksi database dimulai.
+[2025-07-28 23:53:22] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:53:22] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:53:22] Menjalankan INSERT ke tmprfid dengan RFID: Gagal Otentikasi
+[2025-07-28 23:53:22] RFID Gagal Otentikasi berhasil disimpan ke tmprfid.
+[2025-07-28 23:53:22] Menjalankan SELECT dari siswa dengan rfid_code: Gagal Otentikasi
+[2025-07-28 23:53:22] Kartu tidak dikenali di tabel siswa: Gagal Otentikasi
+[2025-07-28 23:53:22] Transaksi database berhasil di-commit.
+[2025-07-28 23:53:22] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:53:22] Koneksi database ditutup. Request finished.
+[2025-07-28 23:53:26] --- New Request Started ---
+[2025-07-28 23:53:26] Koneksi database berhasil.
+[2025-07-28 23:53:26] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:53:26] RFID code extracted: nansa
+[2025-07-28 23:53:26] Transaksi database dimulai.
+[2025-07-28 23:53:26] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:53:26] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:53:26] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:53:26] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:53:26] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:53:26] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:53:26] Transaksi database berhasil di-commit.
+[2025-07-28 23:53:26] Sending JSON response: {"message":"Absen alicya nansa"}
+[2025-07-28 23:53:26] Koneksi database ditutup. Request finished.
+[2025-07-28 23:54:52] --- New Request Started ---
+[2025-07-28 23:54:52] Koneksi database berhasil.
+[2025-07-28 23:54:52] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:54:52] RFID code extracted: nansa
+[2025-07-28 23:54:52] Transaksi database dimulai.
+[2025-07-28 23:54:52] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:54:52] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:54:52] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:54:52] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:54:52] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:54:52] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:54:52] Transaksi database berhasil di-commit.
+[2025-07-28 23:54:52] Sending JSON response: {"message":"Absen alicya nansa"}
+[2025-07-28 23:54:52] Koneksi database ditutup. Request finished.
+[2025-07-28 23:55:01] --- New Request Started ---
+[2025-07-28 23:55:01] Koneksi database berhasil.
+[2025-07-28 23:55:01] Raw input received: {"rfid_code":"nansa"}
+[2025-07-28 23:55:01] RFID code extracted: nansa
+[2025-07-28 23:55:01] Transaksi database dimulai.
+[2025-07-28 23:55:01] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:55:01] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:55:01] Menjalankan INSERT ke tmprfid dengan RFID: nansa
+[2025-07-28 23:55:01] RFID nansa berhasil disimpan ke tmprfid.
+[2025-07-28 23:55:01] Menjalankan SELECT dari siswa dengan rfid_code: nansa
+[2025-07-28 23:55:01] Nama siswa ditemukan: alicya nansa
+[2025-07-28 23:55:01] Transaksi database berhasil di-commit.
+[2025-07-28 23:55:01] Sending JSON response: {"message":"Absen alicya nansa"}
+[2025-07-28 23:55:01] Koneksi database ditutup. Request finished.
+[2025-07-28 23:55:25] --- New Request Started ---
+[2025-07-28 23:55:25] Koneksi database berhasil.
+[2025-07-28 23:55:25] Raw input received: {"rfid_code":"althaf XIIRPL2"}
+[2025-07-28 23:55:25] RFID code extracted: althaf XIIRPL2
+[2025-07-28 23:55:25] Transaksi database dimulai.
+[2025-07-28 23:55:25] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:55:25] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:55:25] Menjalankan INSERT ke tmprfid dengan RFID: althaf XIIRPL2
+[2025-07-28 23:55:25] RFID althaf XIIRPL2 berhasil disimpan ke tmprfid.
+[2025-07-28 23:55:25] Menjalankan SELECT dari siswa dengan rfid_code: althaf XIIRPL2
+[2025-07-28 23:55:25] Nama siswa ditemukan: althaf
+[2025-07-28 23:55:25] Transaksi database berhasil di-commit.
+[2025-07-28 23:55:25] Sending JSON response: {"message":"Absen althaf"}
+[2025-07-28 23:55:25] Koneksi database ditutup. Request finished.
+[2025-07-28 23:55:34] --- New Request Started ---
+[2025-07-28 23:55:34] Koneksi database berhasil.
+[2025-07-28 23:55:34] Raw input received: {"rfid_code":"althaf XIIRPL2"}
+[2025-07-28 23:55:34] RFID code extracted: althaf XIIRPL2
+[2025-07-28 23:55:34] Transaksi database dimulai.
+[2025-07-28 23:55:34] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:55:34] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:55:34] Menjalankan INSERT ke tmprfid dengan RFID: althaf XIIRPL2
+[2025-07-28 23:55:34] RFID althaf XIIRPL2 berhasil disimpan ke tmprfid.
+[2025-07-28 23:55:34] Menjalankan SELECT dari siswa dengan rfid_code: althaf XIIRPL2
+[2025-07-28 23:55:34] Nama siswa ditemukan: althaf
+[2025-07-28 23:55:34] Transaksi database berhasil di-commit.
+[2025-07-28 23:55:34] Sending JSON response: {"message":"Absen althaf"}
+[2025-07-28 23:55:34] Koneksi database ditutup. Request finished.
+[2025-07-28 23:55:47] --- New Request Started ---
+[2025-07-28 23:55:47] Koneksi database berhasil.
+[2025-07-28 23:55:47] Raw input received: {"rfid_code":"althaf XIIRPL2"}
+[2025-07-28 23:55:47] RFID code extracted: althaf XIIRPL2
+[2025-07-28 23:55:47] Transaksi database dimulai.
+[2025-07-28 23:55:47] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:55:47] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:55:47] Menjalankan INSERT ke tmprfid dengan RFID: althaf XIIRPL2
+[2025-07-28 23:55:47] RFID althaf XIIRPL2 berhasil disimpan ke tmprfid.
+[2025-07-28 23:55:47] Menjalankan SELECT dari siswa dengan rfid_code: althaf XIIRPL2
+[2025-07-28 23:55:47] Kartu tidak dikenali di tabel siswa: althaf XIIRPL2
+[2025-07-28 23:55:47] Transaksi database berhasil di-commit.
+[2025-07-28 23:55:47] Sending JSON response: {"message":"Maaf Kartu Tidak Dikenali"}
+[2025-07-28 23:55:47] Koneksi database ditutup. Request finished.
+[2025-07-28 23:56:19] --- New Request Started ---
+[2025-07-28 23:56:19] Koneksi database berhasil.
+[2025-07-28 23:56:19] Raw input received: {"rfid_code":"althaf XIIRPL2"}
+[2025-07-28 23:56:19] RFID code extracted: althaf XIIRPL2
+[2025-07-28 23:56:19] Transaksi database dimulai.
+[2025-07-28 23:56:19] Menjalankan DELETE dari tmprfid.
+[2025-07-28 23:56:19] Tabel tmprfid berhasil dikosongkan.
+[2025-07-28 23:56:19] Menjalankan INSERT ke tmprfid dengan RFID: althaf XIIRPL2
+[2025-07-28 23:56:19] RFID althaf XIIRPL2 berhasil disimpan ke tmprfid.
+[2025-07-28 23:56:19] Menjalankan SELECT dari siswa dengan rfid_code: althaf XIIRPL2
+[2025-07-28 23:56:19] Nama siswa ditemukan: althaf
+[2025-07-28 23:56:19] Transaksi database berhasil di-commit.
+[2025-07-28 23:56:19] Sending JSON response: {"message":"Absen althaf"}
+[2025-07-28 23:56:19] Koneksi database ditutup. Request finished.
