@@ -69,7 +69,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-color: #2E58E4;
+            background-color: #FFFFFF;
             color: #c7c7c7;
             background-image: url('https://i.ytimg.com/vi/YiCKV57NBQw/maxresdefault.jpg');
             background-size: cover;
