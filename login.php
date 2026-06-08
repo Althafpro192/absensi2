@@ -71,7 +71,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             margin: 0;
             background-color: #0e0e0e;
             color: #c7c7c7;
-            background-image: url('images/kali_background.jpg');
+            background-image: url('https://i.ytimg.com/vi/YiCKV57NBQw/maxresdefault.jpg');
             background-size: cover;
             background-position: center;
             overflow: hidden;
