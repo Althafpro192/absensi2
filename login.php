@@ -69,7 +69,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-color: #0e0e0e;
+            background-color: #2E58E4;
             color: #c7c7c7;
             background-image: url('https://i.ytimg.com/vi/YiCKV57NBQw/maxresdefault.jpg');
             background-size: cover;
@@ -77,7 +77,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             overflow: hidden;
         }
         .login-container {
-            background: rgba(0, 0, 0, 0.85);
+            background: rgba(255, 255, 255, 0.56);
             padding: 30px;
             border-radius: 12px;
             box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
@@ -91,7 +91,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         .login-container h2 {
             margin: 0 0 20px;
             font-size: 28px;
-            color: #05c0d4;
+            color: #276DC2;
             text-align: center;
         }
         .login-container input {
@@ -101,19 +101,19 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             border: 1px solid #444;
             border-radius: 4px;
             box-sizing: border-box;
-            background-color: #1c1c1c;
+            background-color: #FFFFFF;
             color: #c7c7c7;
             transition: border-color 0.3s, box-shadow 0.3s;
         }
         .login-container input:focus {
-            border-color: #05c0d4;
-            box-shadow: 0 0 8px rgba(5, 192, 212, 0.4);
+            border-color: #0570D4;
+            box-shadow: 0 0 8px rgba(5, 105, 212, 0.4);
             outline: none;
         }
         .login-container button {
             width: 100%;
             padding: 14px;
-            background-color: #05c0d4;
+            background-color: #04579B;
             color: #fff;
             border: none;
             border-radius: 4px;
@@ -122,7 +122,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             transition: background-color 0.3s, box-shadow 0.3s;
         }
         .login-container button:hover {
-            background-color: #048a9b;
+            background-color: #02457B;
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
         }
         .error {
@@ -136,7 +136,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             left: 50%;
             transform: translate(-50%, -50%);
             font-size: 36px;
-            color: #FFFFFF;
+            color: #0138B8;
             font-weight: 900;
             text-align: center;
             opacity: 1;
@@ -144,7 +144,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         }
         @keyframes glow {
             from {
-                text-shadow: 0 0 10px rgba(5, 192, 212, 0.8), 0 0 20px rgba(5, 192, 212, 0.6);
+                text-shadow: 0 0 10px rgba(5, 129, 212, 0.8), 0 0 20px rgba(5, 192, 212, 0.6);
             }
             to {
                 text-shadow: 0 0 20px rgba(5, 192, 212, 1), 0 0 30px rgba(5, 192, 212, 0.8);
@@ -172,7 +172,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     </style>
 </head>
 <body>
-    <div class="welcome-message" id="welcome-message">Welcome Back!</div>
+    <div class="welcome-message" id="welcome-message"></div>
     <div class="login-container" id="login-container">
         <h2>Login</h2>
         <?php if ($error): ?>
